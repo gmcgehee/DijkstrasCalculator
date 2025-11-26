@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B17E9A07-6C64-4C96-A2F0-F57F98E1B8DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DjikstrasCalculator", "src\DjikstrasCalculator\DjikstrasCalculator.csproj", "{FA8724D8-9C84-4557-829F-2F366B218BF1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DijkstrasCalculator", "src\DijkstrasCalculator\DijkstrasCalculator.csproj", "{FA8724D8-9C84-4557-829F-2F366B218BF1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructures", "DataStructures\DataStructures.csproj", "{97915B75-F5A3-4896-8170-795DF2F82201}"
 EndProject
@@ -31,3 +31,4 @@ Global
 		{FA8724D8-9C84-4557-829F-2F366B218BF1} = {B17E9A07-6C64-4C96-A2F0-F57F98E1B8DF}
 	EndGlobalSection
 EndGlobal
+
