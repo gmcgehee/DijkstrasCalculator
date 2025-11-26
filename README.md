@@ -1,18 +1,18 @@
-# DjikstrasCalculator
-A C#/.NET implementation of using Djikstra's calculator algorithm.
+# DijkstrasCalculator
+A C#/.NET implementation of using Dijkstra's calculator algorithm.
 
 ## Installation
 Run the following command to download the project.
 ```bash
-git clone https://github.com/gmcgehee/DjikstrasCalculator.git
+git clone https://github.com/gmcgehee/DijkstrasCalculator.git
 ```
 
 ## Usage
 This is a dotnet project. [Install the dotnet development platform](https://dotnet.microsoft.com/en-us/download) in order to use this project.
 
-In order to run the projct, first navigate to src/DjikstrasCalculator:
+In order to run the projct, first navigate to src/:
 ```bash
-cd src/DjikstrasCalculator
+cd src/
 ```
 
 Then run the following command to build and run the project:
