@@ -183,7 +183,7 @@ class Program {
                 Console.WriteLine("Program ended.");
                 break;
             }
-            Console.WriteLine(MyCalculator.Compute(MyCalculator.ParseEquation(equation)));
+            Console.WriteLine("\t\t\t   " + MyCalculator.Compute(MyCalculator.ParseEquation(equation)));
         }
     }
 }
